@@ -18,3 +18,6 @@ Logistic Regression was selected as the model for this analysis due to several k
 - **Interpretability**: It offers interpretable results, making it possible to gauge the influence of each feature on the likelihood of fraud.
 - **Stability**: It exhibits low variance and is generally robust to overfitting, particularly beneficial in scenarios with a high dimensionality.
 - **Benchmarking**: It establishes a baseline for evaluating the performance of more complex machine learning algorithms.
+
+### For more EDA
+you can find the full EDA here: [EDA and Classifications](https://www.kaggle.com/code/demolaoyedeji/eda-and-classification-credit-card-fraud/notebook).
